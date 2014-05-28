@@ -39,4 +39,10 @@
 - Trello
 - Github
 - Aha.io
+- Monosnap
+- Screenflow
+- LICEcap
 
+### Other Tools
+- Hubstaff
+- Sublime
